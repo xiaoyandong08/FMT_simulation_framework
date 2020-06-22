@@ -1,8 +1,8 @@
 An Ecological Framework to Understand the Efficacy of Fecal Microbiota Transplantation 
 
 Package: An Ecological Framework to Understand the Efficacy of Fecal Microbiota Transplantation
-The code was written on MATLAB R2018a.
-Last update: November 20 2019
+The code was written on Octave 5.2.0.
+Last update: June 22 2020
 
 
 The package contains:
